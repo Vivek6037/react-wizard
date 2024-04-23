@@ -1,0 +1,73 @@
+@media only screen and (max-width: 480px) {
+    .we_belive_that_section h1,
+    .start_lets_begin_section h1,
+    .the_best_casino_game h1,
+    .trending_game_section h1,
+    .more_than_thirtper_section h1,
+    .your_security_heading h1,
+    .payment_option_section h1
+     {
+        font-size: 34px !important;
+        width: 100%;
+    }
+    .we_belive_that_section p,
+    .the_best_cols p
+    {
+        width: 100%;
+        font-size: 16px !important;
+    }
+    .letsplay button{
+        width: 100%;
+        margin-top: 100px;
+    }
+    .footer_icon{
+        font-size: 15px !important;
+    }
+    .footer-icons{
+        width: 50% !important;
+    }
+    .your_security_p p{
+        width: 100%;
+        font-size: 16px !important;
+    }
+    .your_sec_sec{
+        width: 100% !important;
+    }
+    .question_ans_section{
+        width: 100% !important;
+    }
+    .payment_section_a a{
+        font-size: 15px !important;
+    }
+  }
+
+
+  @media only screen and (max-width: 768px) {
+    .footer-icons{
+        width: 50% !important;
+    }
+    .your_security_section h1{
+        font-size: 50px;
+        width: 60%;
+    }
+    .your_security_p p{
+        width: 80% !important;
+        font-size: 17px !important;
+    }
+    .the_best_casino_game h1{
+        font-size: 50px;
+    }
+    .read_our_latest_article h1{
+        font-size: 45px !important;
+    }
+    .more_than_thirtper_section h1{
+        font-size: 40px !important;
+    }
+    .question_ans_section{
+        width: 100% !important;
+        padding-left: 20px;
+    }
+    .question_ans_section h1{
+        font-size: 45px !important;
+    }
+  }
